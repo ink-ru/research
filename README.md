@@ -1,10 +1,9 @@
 SSL Research
 ============
 
-This repository contains two SSL Labs documents: SSL/TLS Deployment
-Best Practices and SSL Server Rating Guide. The versions here might
-be a work in progress; you'll find the officially released versions
-on the SSL Labs web site: https://www.ssllabs.com
+В разделе Wiki данного проекта находится перевод документации от компании SSL Labs:
+* SSL/TLS Deployment Best Practices
+* SSL Server Rating Guide.
+Информация в документации периодически обновляется. Наиболее актуальная информация на английском языке доступна на сайте: https://www.ssllabs.com
 
-The associated wiki contains many snippets of information useful
-for SSL/TLS configuration and assessment: https://github.com/ssllabs/research/wiki
+или на оригинальном проекте: https://github.com/ssllabs/research/wiki
