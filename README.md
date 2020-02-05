@@ -8,3 +8,6 @@ SSL Research
 Информация в документации периодически обновляется. Наиболее актуальная информация на английском языке доступна на сайте: https://www.ssllabs.com
 
 или на оригинальном проекте: https://github.com/ssllabs/research/wiki
+
+### См. также
+* [Шифрование данных](https://github.com/ink-ru/research/wiki/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
